@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Settings>
+  <URI>https://domains.google.com/nic/update</URI>
+  <IPAddress>0.0.0.0</IPAddress>
+  <hostname>yourdomain.com</hostname>
+  <username>Username</username>
+  <password>Password</password>
+</Settings>
