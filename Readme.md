@@ -1,5 +1,4 @@
-[title]
-Google Domains Dynamic DNS Updates
+# Google Domains Dynamic DNS Updates
 
 This script provides a method to update dynamic DNS records for domain names hosted on Google Domains.
 
@@ -13,8 +12,8 @@ Next, create a scheduled task to run the script at whatever interval is appropri
 The script will check your current IP address and if it is different from the last time it checked, it will
 preform the DNS update on the domain and log the result to a file named DNSUpdates.txt.
 
-Copyright 2018 Jake Weaver
-jake@jjepen.com
+### Copyright 2018 Jake Weaver
+#### jake@jjepen.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),
 to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
